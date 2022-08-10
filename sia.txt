@@ -1,0 +1,81 @@
+THE CONCEPT OF ENTERPRISE ARCHITECTURE
+> Enterprise Architecture overview
+> Enterprise structure
+> Enterprise Architecture – value & risk
+
+ENTERPRISE ARCHITECTURE COMPONENTS
+> Implementation methodology
+> Frameworks
+> Architecture components & artifacts
+
+DEVELOPING AN ENTERPRISE ARCHITECTURE
+> Current architectural view
+> Future architectural view
+> Management plan
+
+USING AN ENTERPRISE ARCHITECTURE
+> Planning & project management
+> Security
+> Repository and support tools
+
+SERVICE ORIENTED ARCHITECTURE
+> SOA Overview
+> SOA Evolution
+
+INTEGRATING TECHNOLOGY
+> XML Technologies (JSON)
+> Web Service Technologies
+> "WS" - Web Service Technologies
+> XML Integration
+> Web Services Integration
+> XML and databases
+
+INTEGRATING APPLICATIONS
+> Application Integration
+> Legacy Integration
+> Enterprise Integration
+> Integration Strategies
+
+INTEGRATING THE ENTERPRISE
+> XML integration best practices
+> Web Services best practices
+> Building the Service Oriented Enterprise
+
+MODEL DRIVEN ARCHITECTURE
+> Terms & Concepts
+> Building models
+> Metamodels
+> Mappings
+> Marking models
+> Languages
+
+MODEL DRIVEN ARCHITECTURE PROCESS
+> Building and MDA process
+> Executing and MDA process
+
+FUTURE TREND
+> Enterprise Architect as a profession
+> SOA and the Future
+> MDA and the Future
+
+For Presentation
+1. https://medium.com/quick-code/enterprise-architecture-building-a-robust-business-it-landscape-e966edda102a
+
+https://www.slideserve.com/marilee/enterprise-architecture
+
+https://en.wikipedia.org/wiki/Enterprise_architecture
+
+Enterprise Architecture Tools
+https://www.ibm.com/db2
+https://docs.microsoft.com/en-us/microsoft-365/solutions/design-principles?view=o365-worldwide
+
+
+
+git clone https://github.com/giancataraja2/website1.git
+
+command 1: git add .
+command 2: git commit -m "Your name"
+command 3: git push origin master
+
+
+
